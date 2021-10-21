@@ -2,6 +2,7 @@ body {
     margin: 0;
     font-family: sans-serif;
     background-color: #f5f7fa;
+    background: linear-gradient(180deg, #49a09b, #3d8291);
 }
 
 /*.navbar.transparent.navbar-inverse .navbar-inner {
